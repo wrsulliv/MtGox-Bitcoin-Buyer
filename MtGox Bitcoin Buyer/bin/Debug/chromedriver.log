@@ -1,0 +1,21 @@
+[0429/135124:INFO:chromedriver_server.cc(76)] Handling request: /status 
+[0429/135124:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"","status":0,"value":{"build":{"version":"alpha"},"os":{"arch":"x86_64","name":"Windows NT","version":"6.1 SP1"}}}
+[0429/135125:INFO:chromedriver_server.cc(76)] Handling request: /session {"desiredCapabilities":{"browserName":"chrome","version":"","platform":"WINDOWS","javascriptEnabled":true,"chromeOptions":{"args":[],"extensions":[]},"chrome.switches":[]}}
+[0429/135126:INFO:chrome_launcher.cc(74)] Using chrome from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0429/135129:INFO:chromedriver_server.cc(81)] Done handling request: 303 
+[0429/135129:INFO:chromedriver_server.cc(76)] Handling request: /session/4e111bd4f02d113c561862b8cdbb8c3e 
+[0429/135129:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4e111bd4f02d113c561862b8cdbb8c3e","status":0,"value":{"acceptSslCerts":true,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"browserName":"chrome","cssSelectorsEnabled":true,"databaseEnabled":true,"driverVersion":"0.7","handlesAlerts":true,"javascriptEnabled":true,"locationContextEnabled":true,"nativeEvents":true,"platform":"Windows NT","rotatable":false,"takesScreenshot":true,"version":"26.0.1410.64","webStorageEnabled":true}}
+[0429/135134:INFO:chromedriver_server.cc(76)] Handling request: /session/4e111bd4f02d113c561862b8cdbb8c3e/url {"url":"http://mtgox.com/"}
+[0429/135143:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4e111bd4f02d113c561862b8cdbb8c3e","status":0,"value":null}
+[0429/135144:INFO:chromedriver_server.cc(76)] Handling request: /session/4e111bd4f02d113c561862b8cdbb8c3e/element {"using":"id","value":"username"}
+[0429/135145:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4e111bd4f02d113c561862b8cdbb8c3e","status":0,"value":{"ELEMENT":"1"}}
+[0429/135145:INFO:chromedriver_server.cc(76)] Handling request: /session/4e111bd4f02d113c561862b8cdbb8c3e/element/1/value {"value":["m","r","b","l","o","t","c","h","k","i","n","s"]}
+[0429/135145:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4e111bd4f02d113c561862b8cdbb8c3e","status":0,"value":null}
+[0429/135145:INFO:chromedriver_server.cc(76)] Handling request: /session/4e111bd4f02d113c561862b8cdbb8c3e/element {"using":"id","value":"password"}
+[0429/135145:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4e111bd4f02d113c561862b8cdbb8c3e","status":0,"value":{"ELEMENT":"2"}}
+[0429/135145:INFO:chromedriver_server.cc(76)] Handling request: /session/4e111bd4f02d113c561862b8cdbb8c3e/element/2/value {"value":["E","m","i","l","y","c","a","t","5","5","8","9"]}
+[0429/135145:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4e111bd4f02d113c561862b8cdbb8c3e","status":0,"value":null}
+[0429/135145:INFO:chromedriver_server.cc(76)] Handling request: /session/4e111bd4f02d113c561862b8cdbb8c3e/element {"using":"name","value":"LOGIN"}
+[0429/135145:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4e111bd4f02d113c561862b8cdbb8c3e","status":0,"value":{"ELEMENT":"3"}}
+[0429/135145:INFO:chromedriver_server.cc(76)] Handling request: /session/4e111bd4f02d113c561862b8cdbb8c3e/element/3/value {"value":["\ue015","\ue007"]}
+[0429/135145:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4e111bd4f02d113c561862b8cdbb8c3e","status":0,"value":null}

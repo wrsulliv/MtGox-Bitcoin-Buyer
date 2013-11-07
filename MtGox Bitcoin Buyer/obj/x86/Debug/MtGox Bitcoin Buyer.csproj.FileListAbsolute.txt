@@ -1,0 +1,30 @@
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\MtGox Bitcoin Buyer.exe.config
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\MtGox Bitcoin Buyer.exe
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\MtGox Bitcoin Buyer.pdb
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\NMock2.dll
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\nunit.core.dll
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\nunit.framework.dll
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\WebDriver.Common.Tests.dll
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\WebDriver.dll
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\WebDriver.Remote.Tests.dll
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\WebDriver.Support.dll
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\WebDriver.pdb
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\WebDriver.xml
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\WebDriver.Common.Tests.pdb
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\WebDriver.Remote.Tests.pdb
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\WebDriver.Support.pdb
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\bin\Debug\WebDriver.Support.xml
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\obj\x86\Debug\MtGox_Bitcoin_Buyer.Form1.resources
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\obj\x86\Debug\MtGox_Bitcoin_Buyer.Properties.Resources.resources
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\obj\x86\Debug\MtGox Bitcoin Buyer.exe
+C:\Users\Will\documents\visual studio 2010\Projects\MtGox Bitcoin Buyer\MtGox Bitcoin Buyer\obj\x86\Debug\MtGox Bitcoin Buyer.pdb
